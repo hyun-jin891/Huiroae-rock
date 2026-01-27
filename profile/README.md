@@ -73,7 +73,7 @@ LLM을 활용하여 노래 가사의 핵심 주제를 요약하고, 프롬프트
       <b>김동기</b>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/lee-yeonseoK">
+      <a href="https://github.com/lee-yeonseo">
         <img src="https://github.com/user-attachments/assets/985a02c7-760c-465a-b466-91defb02d5b4" width="100px" style="border-radius:50%"/>
       </a>
       <br />
