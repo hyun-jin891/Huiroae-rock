@@ -6,6 +6,9 @@
 
 > "사람들은 음악을 들을 때, 소리만을 소비하지 않습니다. 노래는 개인의 기억, 감정, 상황과 결합되며 하나의 이미지로 각인됩니다."
 
+[Source Code](https://github.com/song-album-generation)
+
+
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
