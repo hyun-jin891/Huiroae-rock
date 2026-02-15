@@ -65,7 +65,7 @@ LLM을 활용하여 노래 가사의 핵심 주제를 요약하고, 프롬프트
         <img src="https://github.com/user-attachments/assets/020634e2-dacc-42e1-9872-9abf83413c4d" width="100px" style="border-radius:50%"/>
       </a>
       <br />
-      <b>조현진</b>
+      <b>조현진(팀장)</b>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/HYU-KDK">
@@ -84,7 +84,7 @@ LLM을 활용하여 노래 가사의 핵심 주제를 요약하고, 프롬프트
     <td align="center" width="150px">
       <img src="https://github.com/user-attachments/assets/b07f5a8d-9982-4269-8a98-1911cf756c78" width="100px" style="border-radius:50%"/>
       <br />
-      <b>정수현</b>
+      <b>정수현(디자이너)</b>
     </td>
 </table>
 
