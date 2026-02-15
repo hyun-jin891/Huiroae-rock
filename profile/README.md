@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/song-album-generation/.github/assets/로고이미지주소.png" width="200" alt="Logo"/>
 
 # 🎸 희로애 rock (Huiroae-rock)
 **음악에 맞는 앨범 커버 생성 서비스**
